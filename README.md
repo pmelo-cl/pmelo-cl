@@ -16,6 +16,6 @@ Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en len
   <img width="12" />
 </div>
 ## 42cursus Progress
- - [AQUI](https://github.com/pmelo-cl/42Cursus)
+ - Para ver mi progresion en el 42 cursus [AQUI](https://github.com/pmelo-cl/42Cursus)
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pau.mc.val@gmail.com) 
