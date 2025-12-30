@@ -16,6 +16,6 @@ Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en len
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=c#" height="60" alt="c# logo"  />
   <img width="12" />
 </div>
