@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre Mi:
 Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en lenguajes como Java y Python. Actualmente aprendiendo C y construyendo proyectos en 42 Madrid. Buscando oportunidades para contribuir a proyectos open source y aprender buenas prácticas.
 
 
