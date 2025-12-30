@@ -1,10 +1,6 @@
 # Sobre Mi:
 Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en lenguajes como Java y Python. Actualmente aprendiendo C y construyendo proyectos en 42 Madrid. Buscando oportunidades para contribuir a proyectos open source y aprender buenas prácticas.
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pau.mc.val@gmail.com) 
-
 ###
 
 <div align="center">
@@ -19,3 +15,6 @@ Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en len
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
 </div>
+
+## Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pau.mc.val@gmail.com) 
