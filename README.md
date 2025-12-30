@@ -1,9 +1,8 @@
 # Sobre Mi:
 Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en lenguajes como Java y Python. Actualmente aprendiendo C y construyendo proyectos en 42 Madrid. Buscando oportunidades para contribuir a proyectos open source y aprender buenas prácticas.
 
-<div align="center">
   [![pmelo-cl's 42 stats](https://badge.mediaplus.ma/black/pmelo-cl?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</div>
+
 
 ###
 <div align="center">
@@ -18,7 +17,6 @@ Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en len
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
 </div>
-###
 
 ## 42cursus Progress
  - Para ver mi progresion en el 42 cursus [AQUI](https://github.com/pmelo-cl/42Cursus)
