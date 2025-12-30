@@ -1,9 +1,6 @@
 # Sobre Mi:
 Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en lenguajes como Java y Python. Actualmente aprendiendo C y construyendo proyectos en 42 Madrid. Buscando oportunidades para contribuir a proyectos open source y aprender buenas prácticas.
 
-  [![pmelo-cl's 42 stats](https://badge.mediaplus.ma/black/pmelo-cl?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-
 ###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -19,7 +16,9 @@ Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en len
 </div>
 
 ## 42cursus Progress
- - Para ver mi progresion en el 42 cursus [AQUI](https://github.com/pmelo-cl/42Cursus)
+[![pmelo-cl's 42 stats](https://badge.mediaplus.ma/black/pmelo-cl?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+ 
+- Para ver mi progresion en el 42 cursus [AQUI](https://github.com/pmelo-cl/42Cursus)
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pau.mc.val@gmail.com) 
