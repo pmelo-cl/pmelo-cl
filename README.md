@@ -18,7 +18,7 @@ Estudiante de Ingenieria Informatica apasionado por el Back-end eficiente en len
 ## 42cursus Progress
 [![pmelo-cl's 42 stats](https://badge.mediaplus.ma/black/pmelo-cl?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
  
-- Para ver mi progresion en el 42 cursus [AQUI](https://github.com/pmelo-cl/42Cursus)
+- Para ver mi progresión en el 42 cursus [AQUI](https://github.com/pmelo-cl/42Cursus)
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pau.mc.val@gmail.com) 
