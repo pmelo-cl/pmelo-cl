@@ -13,7 +13,7 @@ Soy un apasionado de la eficiencia en el **Back-end** y el desarrollo de interfa
   <img src="https://skillicons.dev/icons?i=html,css,ts,angular,figma" height="40" alt="frontend skills" />
   <img width="12" />
   <!-- Backend & Systems -->
-  <img src="https://skillicons.dev/icons?i=java,python,c,nodejs,asm" height="40" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,asm" height="40" alt="backend skills" />
   <img width="12" />
   <!-- DB & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,linux" height="40" alt="tools" />
