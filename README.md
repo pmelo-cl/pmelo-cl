@@ -30,6 +30,7 @@ Soy un apasionado de la eficiencia en el **Back-end** y el desarrollo de interfa
 | **1** | **get_next_line** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/125](https://img.shields.io/badge/Score-125%2F125-success) |
 | **2** | **A_Maze_Ing** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/125](https://img.shields.io/badge/Score-125%2F125-success) |
 | **3** | **Fly-In** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) |
+| **4** | **Pac_Man** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) |
 
 **[Ver desglose detallado de todos los proyectos aquí](https://github.com/pmelo-cl/42Cursus)**
 
